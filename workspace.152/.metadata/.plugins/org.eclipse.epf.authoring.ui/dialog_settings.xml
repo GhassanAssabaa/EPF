@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Work Products.LEVEL_ID">
+		<item value="Work Products" key="Work Products.Type"/>
+		<item value="" key="Work Products.Pattern"/>
+	</section>
+	<section name="Most common.LEVEL_ID">
+		<item value="Most common" key="Most common.Type"/>
+		<item value="" key="Most common.Pattern"/>
+	</section>
+	<section name="Custom Categories.LEVEL_ID">
+		<item value="Custom Categories" key="Custom Categories.Type"/>
+		<item value="" key="Custom Categories.Pattern"/>
+	</section>
+	<section name="Guidance.LEVEL_ID">
+		<item value="Guidance" key="Guidance.Type"/>
+		<item value="" key="Guidance.Pattern"/>
+	</section>
+	<section name="Roles.LEVEL_ID">
+		<item value="" key="Roles.Pattern"/>
+		<item value="Roles" key="Roles.Type"/>
+	</section>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ExportResourcesAction">
+		<item value="org.eclipse.epf.export.wizards.ExportPluginWizard" key="WizardListSelectionPage.STORE_SELECTED_WIZARD_ID"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

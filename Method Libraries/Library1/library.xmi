@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_q3hK8OnpEemSb85CcFLYYQ" guid="_q3hK8OnpEemSb85CcFLYYQ">
+    <resourceDescriptors xmi:id="_q3hK8enpEemSb85CcFLYYQ" id="_q3XZ8OnpEemSb85CcFLYYQ" uri=""/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_q3XZ8OnpEemSb85CcFLYYQ" name="Library1" guid="_q3XZ8OnpEemSb85CcFLYYQ"/>
+</xmi:XMI>
